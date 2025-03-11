@@ -1,6 +1,6 @@
 # RyzenCSVMonitor
 
-A tool for reading and visualizing performance data collected by the AMD Ryzen Adrenalin Edition software. This application allows users to load CSV files, display the data in an interactive table, and generate graphs for analysis.
+A tool for reading and visualizing performance data collected by the AMD Ryzen Adrenalin Edition software (Frame per second, Memory usage, Cpu and Gpu temperature). This application allows users to load CSV files, display the data in an interactive table, and generate graphs for analysis. 
 
 ## Features
 - Reads CSV files containing performance data collected by AMD Ryzen Adrenalin Edition.
