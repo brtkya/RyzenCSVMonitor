@@ -14,6 +14,5 @@ A tool for reading and visualizing performance data collected by the AMD Ryzen A
 3. Click on a column header to generate a graph showing the trends for that column.
 
 ## Preview
-RyzenCSVMonitor
-/preview.mp4
+[Watch the demo video](https://raw.githubusercontent.com/brtkya/RyzenCSVMonitor/main/preview.mp4)
 
